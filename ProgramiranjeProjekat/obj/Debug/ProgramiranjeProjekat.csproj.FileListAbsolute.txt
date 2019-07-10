@@ -1,0 +1,11 @@
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\bin\Debug\ProgramiranjeProjekat.exe.config
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\bin\Debug\ProgramiranjeProjekat.exe
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\bin\Debug\ProgramiranjeProjekat.pdb
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\obj\Debug\ProgramiranjeProjekat.csprojAssemblyReference.cache
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\obj\Debug\ProgramiranjeProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\obj\Debug\ProgramiranjeProjekat.csproj.CopyComplete
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\obj\Debug\ProgramiranjeProjekat.exe
+C:\Users\Lord Nemanja\source\repos\ProgramiranjeProjekat\ProgramiranjeProjekat\obj\Debug\ProgramiranjeProjekat.pdb
